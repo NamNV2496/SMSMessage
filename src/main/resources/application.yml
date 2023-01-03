@@ -1,0 +1,4 @@
+twilio:
+  account_sid: AC18107daeb564113062c52923beda2251
+  auth_token: ded6ac83d4c9c95d984d0ae263841856
+  trial_phone: +17752777556
